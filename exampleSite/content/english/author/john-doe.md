@@ -1,5 +1,5 @@
 ---
-title: "John Doe"
+title: "we wish web"
 image: "images/author.jpg"
 email: "johndoe@logbook.com"
 social:
