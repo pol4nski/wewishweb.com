@@ -3,7 +3,7 @@
 # Dropdown menu
 [[main]]
 weight = 1
-name = "homepage"
+name = "homepageUO"
 hasChildren = true
 
 [[main]]
