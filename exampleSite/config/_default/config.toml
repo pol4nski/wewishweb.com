@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://demo.gethugothemes.com/logbook/site/"
 title = "LogBook | Hugo Personal Blog Template"
-theme = "logbook-hugo"
+theme = "We Wish Web"
 # post pagination
 paginate = "5"
 # post excerpt
