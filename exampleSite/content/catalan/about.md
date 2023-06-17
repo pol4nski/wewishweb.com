@@ -1,5 +1,5 @@
 ---
-title: "Hi, I Am John Doe"
+title: "We Wish Web"
 image: "images/author-full.jpg"
 # description
 description: "This is meta description"
