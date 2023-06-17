@@ -1,53 +1,53 @@
 - id: continue_reading
-  translation: Relecture Continue
+  translation: Continua llegint..
 
 - id: search_placeholder
-  translation: Tapez et appuyez sur Entrée ...
+  translation: Escriu i prem Enter ..
 
 - id: latest_article
-  translation: Dernier article
+  translation: Última publicació
 
 - id: categories
-  translation: Les catégories
+  translation: Categories
 
 - id: tags
-  translation: Mots clés
+  translation: Etiquetes
 
 - id: search
-  translation: Chercher
+  translation: Cercar
 
 - id: date
-  translation: Date
+  translation: Data
 
 - id: posted_by
-  translation: Publié par cet auteur
+  translation: Publicat per
 
 - id: send
-  translation: Envoyer maintenant
+  translation: Enviar
 
 - id: name
-  translation: votre nom
+  translation: Nom
 
 - id: email 
-  translation: Votre adresse email
+  translation: Email
 
 - id: message
-  translation: Votre message ici
+  translation: missatge
 
 - id: subscribe
-  translation: Abonnez-vous maintenant
+  translation: Subscriu-te
 
 - id: write_email
-  translation: Formulaires de haine? Écrivez-nous par e-mail
+  translation: Envians un correu electrònic
 
 - id: subscribe_newsletter
-  translation: Abonnez-vous à la newsletter
+  translation: Subscriu-te al nostre butlletí
 
 - id: quick_links
-  translation: Liens rapides
+  translation: Enllaços directes
 
 - id: social
-  translation: Liens sociaux
+  translation: Xarxes Socials
 
 - id: back_to_home
   translation: Anar a l'inici
