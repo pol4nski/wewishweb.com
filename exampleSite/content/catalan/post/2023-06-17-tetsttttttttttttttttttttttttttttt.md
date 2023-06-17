@@ -2,6 +2,7 @@
 title: Tetsttttttttttttttttttttttttttttt
 draft: false
 date: 2023-06-17 17:26
+image: /images/uploads/author-full.jpg
 ---
 j﻿ijijij
 
