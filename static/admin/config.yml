@@ -6,7 +6,7 @@ site_url: https://wewishweb.com
 
 publish_mode: editorial_workflow
 media_folder: exampleSite/assets/images/post
-public_folder: "/images/post" # The src attribute for uploaded media will begin with /images/uploads
+# public_folder: "/images/post" # The src attribute for uploaded media will begin with /images/uploads
 
 collections: # A list of collections the CMS should be able to edit
   - name: 'posts' # Used in routes, ie.: /admin/collections/:slug/edit
