@@ -23,12 +23,12 @@ purge_css = true
 mainSections = ["post"]
 
 # featured post
-featured_post = true
+featured_post = false
 
 # layout
 post_layout = "grid" # layout value (full, grid or list)
 # Sidebar
-sidebar = "right" # sidebar value (left, right or false)
+sidebar = "false" # sidebar value (left, right or false)
 
 # contact form action
 contact_form_action = "#" # contact form works with [https://airform.io/] or [https://formspree.io]
@@ -42,7 +42,7 @@ custom_script = ""
 
 # copyright
 theme_copyright = true
-copyright = "Copyright by your company"
+copyright = "© We Wish Web"
 
 # Preloader
 [preloader]

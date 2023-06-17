@@ -1,0 +1,38 @@
+############### Català navigation ################
+
+# Dropdown menu
+[[main]]
+weight = 1
+name = "Inici"
+hasChildren = true
+
+[[main]]
+name = "Nosaltres"
+url = "about/"
+weight = 2
+
+[[main]]
+name = "Contacte"
+url = "contact/"
+weight = 3
+
+# footer menu
+[[footer]]
+name = "Nosaltres"
+url = "about/"
+weight = 1
+
+[[footer]]
+name = "Contacte"
+url = "contact/"
+weight = 2
+
+[[footer]]
+name = "Politica de Privacitat"
+url = "privacy-policy/"
+weight = 3
+
+[[footer]]
+name = "Condicions Legals"
+url = "terms-conditions/"
+weight = 4

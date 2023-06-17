@@ -3,7 +3,7 @@ baseURL = "https://wewishweb.com"
 title = "We Wish Web | Desenvolupem el teu somni digital"
 theme = "logbook-hugo"
 copyright = 'We Wish Web'
-defaultContentLanguage = 'en'
+defaultContentLanguage = 'ca'
 # post pagination
 paginate = "5"
 # post excerpt
