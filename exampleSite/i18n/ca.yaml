@@ -50,19 +50,19 @@
   translation: Liens sociaux
 
 - id: back_to_home
-  translation: Back To Home
+  translation: Anar a l'inici
 
 - id: about_me
-  translation: À propos de moi
+  translation: Nosaltres
 
 - id: page_not_found
-  translation: Ooops! This Page Is Not Available
+  translation: Ooops! Aquesta pàgina no existeix..
 
 - id: search_input_placeholder
-  translation: Recherche Logbook ..
+  translation: Cercar a We Wish Web ..
 
 - id: no_results_for
-  translation: Aucun résultat pour
+  translation: No s'han trobat resultats que coincideixin amb els critèris de cerca
 
 - id: empty_search_results_placeholder
-  translation: Tapez quelque chose à rechercher..
+  translation: Escriu alguna cosa per cercar..
